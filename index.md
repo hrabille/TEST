@@ -39,7 +39,7 @@ Est ce que si je change cette partie ca change le texte sur la page également ?
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Logo-UniLaSalle.jpg"
   link="research"
   title="Our Research"
   text=text

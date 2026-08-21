@@ -1,7 +1,7 @@
 ---
 ---
 
-# Lab Website Template
+# TEST GITHUB PAGE
 
 [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
 Spend less time worrying about managing a website and citations, and more time running your lab.
@@ -20,11 +20,11 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% include section.html %}
 
-## Highlights
+## SITE exemple
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Est ce que si je change cette partie ca change le texte sur la page également ?
 
 {%
   include button.html
